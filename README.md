@@ -85,6 +85,6 @@ Welcome back again!  In this project we will focus on populating our domain by g
   
 Congratulations on completing this project!  After generating numerous users into your domain, you have now created an environment in Azure that is capable of simulating various scenarios.  These scenarios are meant to better your understanding of what can be done within Active Directory.
 
-- If you would like to continue to the next step in this series of Active Directory projects, please click <a href="">here</a>
+- If you would like to continue to the next step in this series of Active Directory projects, please click <a href="https://github.com/christianDCdev/ad-practical-scenarios">here</a>
 
 </p>
